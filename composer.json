@@ -1,0 +1,30 @@
+
+{
+  "name": "cube-group/myaf-image",
+  "description": "image",
+  "keywords": [
+    "base"
+  ],
+  "authors": [
+    {
+      "name": "linyang",
+      "email": "linyangflash@163.com"
+    },
+    {
+      "name": "chenqionghe"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.org/"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  },
+  "minimum-stability": "dev"
+}
